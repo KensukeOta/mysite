@@ -8,3 +8,4 @@
 
 <h1>Help</h1>
 <a href="{base}/">Top</a>
+{base}
