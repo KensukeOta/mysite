@@ -1,5 +1,5 @@
 <script lang="ts">
-
+  import { base } from "$app/paths";
 </script>
 
 <svelte:head>
@@ -7,4 +7,4 @@
 </svelte:head>
 
 <h1>Hello World!!</h1>
-<a href="/help">Help</a>
+<a href="{base}/help">Help</a>
