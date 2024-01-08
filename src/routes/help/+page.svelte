@@ -6,6 +6,5 @@
   <title>Help - My Site</title>
 </svelte:head>
 
-<h1>Help</h1>
+<h1 class="font-bold">Help</h1>
 <a href="{base}/">Top</a>
-{base}
