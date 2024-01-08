@@ -8,3 +8,4 @@
 
 <h1 class="font-bold">Hello World!!</h1>
 <a href="{base}/help">Help</a>
+<img src="/favicon.png" alt="">
