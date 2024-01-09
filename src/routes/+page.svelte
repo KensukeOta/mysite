@@ -1,5 +1,6 @@
 <script lang="ts">
   import { base } from "$app/paths";
+  import Image from "$lib/images/favicon.png?enhanced"
 </script>
 
 <svelte:head>
@@ -8,4 +9,4 @@
 
 <h1 class="font-bold">Hello World!!</h1>
 <a href="{base}/help">Help</a>
-<img src="{base}/favicon.png" alt="">
+<enhanced:img src={Image} alt="Some alt text" />
